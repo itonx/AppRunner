@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AppRunner": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\ayrto\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe"
+    }
+  }
+}
